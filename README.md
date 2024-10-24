@@ -1,1 +1,1 @@
-This repository containd some backend projects
+This repository contains some backend projects
